@@ -1,3 +1,5 @@
+package zadanie2;
+
 public class Company {
     char[] name;
     long nip;
