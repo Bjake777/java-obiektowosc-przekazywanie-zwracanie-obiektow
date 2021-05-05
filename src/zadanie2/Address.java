@@ -1,3 +1,5 @@
+package zadanie2;
+
 public class Address {
     char[] street;
     int houseNumber;

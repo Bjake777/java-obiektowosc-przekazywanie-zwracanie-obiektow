@@ -1,3 +1,5 @@
+package zadanie2;
+
 public class CompanyRepo {
     Company[] companies;
     int iterator = 0;
@@ -25,6 +27,7 @@ public class CompanyRepo {
         }
         return findedCompany;
     }
+
 
     void displayAll(){
         System.out.println("*********** wszystkie firmy ***********");
